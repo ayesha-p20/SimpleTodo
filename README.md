@@ -26,17 +26,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Creating this app was one of the most enjoyable coding projects that I have worked on. However, since I have no prior experience of creating an android app, I did run into a few obstacles while working on this project.
+It took me a while to get used to the environment and understand what the code means. In fact, I had to rewatch certain sections of the videos to comprehend why the code has been written in a specific way. I also ran into multiple errors, because of which I had to spend a good amount of time debugging my code. 
+On the whole though, creating the Simple Todo App was a good learning experience and a fun introduction to Android Studio
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Ayesha Parvez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
